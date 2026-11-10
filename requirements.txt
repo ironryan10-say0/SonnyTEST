@@ -1,0 +1,2 @@
+# 커스텀 CSS가 Streamlit 내부 DOM(data-testid, st-key-*)에 의존하므로 버전 고정
+streamlit==1.67.0
